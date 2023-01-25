@@ -21,14 +21,6 @@ export default function Header() {
               style={{ cursor: "pointer" }}
             />
           </Link>
-            <Link href="/listings">
-          <a className={styles.headerItem}>Staking</a>
-        </Link>
-            </Link>
-            <Link href="/listings">
-          <a className={styles.headerItem}>Play-to-earn</a>
-        </Link>
-        </div>
       </div>
       <div className={styles.right}>
         {address ? (
