@@ -27,8 +27,8 @@ select {
 :root {
   --black: #1c1e21;
   --white: #ffffff;
-  --tw-color1: #a855f7;
-  --tw-color1-hover: #9333ea;
+  --tw-color1:#0033ae;
+  --tw-color1-hover: #ff6663;
 }
 
 body {
