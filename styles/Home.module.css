@@ -108,7 +108,12 @@
   flex-direction: row;
   margin-right: 5%;
 }
-
+.headerItem {
+  font-size: 1rem;
+  color: inherit;
+  font-weight: bold;
+  margin-left: 16px;
+}
 .secondaryButton {
   cursor: pointer;
   text-align: center;
